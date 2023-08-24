@@ -1,0 +1,17 @@
+
+[general]
+name=Ejemplo 1
+descripcion=Base plugin para ejercicios
+about=Archivo base para desarrollo de plugin 
+category=escritorio
+version=0.0.1
+qgisMinimunVersion=3.0
+icon=icon.png 
+author=Melisa JM
+email=melisajm05@gmail.com
+tags=vector,raster
+homepage=http://keyspatial.com
+tracker=http://keyspatial.com
+repository=https://github.com/MelisaJM/Clase/tree/master/Ejercicio2
+experimental=False
+deprecated=False
